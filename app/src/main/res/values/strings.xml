@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SaveUP</string>
+    <string name="get_started">Start</string>
+    <string name="money_tracking">Start Young</string>
+    <string name="text_screen_one">Your companion for tracking all your  <font color='#47BA9C'>income and expenses</font></string>
+    <string name="set_goals">Set Goals</string>
+    <string name="text_screen_two">Come back regularly to set  <font color='#47BA9C'>good financial habits</font> for your  <font color='#FFC727'>long-term financial goals</font></string>
+    <string name="see_grow">See your Money Grow</string>
+    <string name="text_screen_third">Help you  <font color='#47BA9C'>stay conscious</font> about how much money  <font color='#FA6D75'>get out</font> from your pocket</string>
+    <string name="next">Next</string>
+    <string name="home_button">Home Button</string>
+    <string name="article_button">Article Button</string>
+    <string name="user_button">User Button</string>
+    <string name="home">%1$s</string>
+    <string name="expenses">Expenses</string>
+    <string name="income">Income</string>
+    <string name="latest_activity">Your Activities</string>
+    <string name="welcome">Hello, sunshine!</string>
+    <string name="welcome_desc">It\'s time to learn budgeting, dream big and <font color='#47BA9C'> reach the moon!</font></string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="lets_go">Lets Go</string>
+    <string name="insert_button">Insert Button</string>
+    <string name="add_activity">Add Activity</string>
+    <string name="edit_activity">Edit Activity</string>
+    <string name="select_categories">Select Categories</string>
+    <string name="activity_name">Enter Activity Name</string>
+    <string name="amount">Amount</string>
+    <string name="activity_date">Activity Date</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="rp">MYR</string>
+    <string name="rp_placeholder">%1$s</string>
+    <string name="rp_placeholder_income">+%1$s</string>
+    <string name="rp_placeholder_expense">-%1$s</string>
+    <string name="your_stats">Your Stats</string>
+    <string name="money_percentage">Money Percentage:</string>
+    <string name="money_percentage_income">%.0f%% Income</string>
+    <string name="money_percentage_expense">%.0f%% Expense</string>
+    <string name="money_percentage_expense_ring">%.0f%%</string>
+    <string name="latest_news">Latest News</string>
+    <string name="you_did_a_good_job">You Did a Good Job !</string>
+    <string name="yout_did_what">You Can Do Better than This !</string>
+    <string name="text_description_success">Making your expense lower than your income is number 1 key for managing your money</string>
+    <string name="text_description_failed">Making your expense higher will lead to poor money management, be careful!</string>
+    <string name="greetings">Hello ,</string>
+    <string name="notification">Notification</string>
+    <string name="enable_or_disabled_notification">Enable or Disabled Notification</string>
+    <string name="edit_name">Edit Name</string>
+    <string name="edit_your_current_name">Edit Your Current Name</string>
+    <string name="settings">Settings</string>
+    <string name="enter_your_new_name">Input Name</string>
+    <string name="notify_content">%s, Reminder to Track Your Money Today</string>
+    <string name="notify_channel_name">Daily Reminder</string>
+    <string name="work_tag">DAILY UNIQUE WORK</string>
+    <string name="status_now">Your Status</string>
+    <string name="read_some_articles_about_financial">Read Some Articles About Financial</string>
+    <string name="something_went_wrong">Something Went Wrong Try Again Later\n%s</string>
+
+    <string-array name="activity_categories">
+        <item>@string/expenses</item>
+        <item>@string/income</item>
+    </string-array>
+</resources>
